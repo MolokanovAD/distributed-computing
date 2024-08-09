@@ -1,0 +1,6 @@
+[submodule "computing-node"]
+	path = computing-node
+	url = git@github.com:MolokanovAD/computing-node.git
+[submodule "task-manager"]
+	path = task-manager
+	url = git@github.com:MolokanovAD/task-manager.git
